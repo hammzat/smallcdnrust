@@ -1,1 +1,3 @@
 # smallcdnrust
+logo
+maps
