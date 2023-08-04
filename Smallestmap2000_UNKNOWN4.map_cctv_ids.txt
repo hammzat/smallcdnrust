@@ -1,0 +1,3 @@
+ID: BACKROOM001 - Location: (-936.74, -63.46, -955.53)
+ID: BACKROOM002 - Location: (-969.08, -63.46, -909.35)
+ID: research1 - Location: (350.62, 13.17, -269.06)
